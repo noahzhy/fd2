@@ -1,0 +1,2 @@
+python3 detect.py --source "0" --weights "yolov3.pt" --LiteFlowNet_weights "LiteFlowNet.pt" --view-img "True"
+
